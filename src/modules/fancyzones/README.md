@@ -3,7 +3,7 @@ Fancy Zones is a window manager that is designed to make it easy to arrange and 
 
 ![Fancy Zones](FancyZones.png)
 
-To get started with Fancy Zones, you need to enable the utility in Power Toys settings and then invoke the Fancy Zones setup UI.  There is a button in settings to invoke this UI, or you can press Win+~ to launch it.  When first launched, the UI presents a list of zone layouts that can be quickly adjusted by how many windows are on the monitor.  Choosing a layout shows a preview of that layout on the monitor.  Pressing the save and close button sets that layout to the monitor.  
+To get started with Fancy Zones, you need to enable the utility in Power Toys settings and then invoke the Fancy Zones setup UI.  There is a button in settings to invoke this UI, or you can press Win+~ (backtick) to launch it.  When first launched, the UI presents a list of zone layouts that can be quickly adjusted by how many windows are on the monitor.  Choosing a layout shows a preview of that layout on the monitor.  Pressing the save and close button sets that layout to the monitor.  
 
 ![Fancy Zones Picker](Picker.png)
 
